@@ -1,0 +1,389 @@
+@media (min-width: 1280px) and (max-width: 1700px) {
+
+  .feature-box.style-four .feature-box-content .feature-box-title h2 {
+    font-size: 19px;
+  }
+
+}
+/*------------------------------------------------- Laptop Screen ---------------------------------------------------*/
+ @media (min-width: 1170px) and (max-width: 1366px) {
+
+  .search_button {
+    text-align: center;
+    padding-right: 0;
+    margin-left: -80px;
+  }
+  .tr-btn-search .nav-btn.navSidebar-button {
+    left: 0px;
+  }
+  .feature-box.style-four .feature-box-content .feature-box-title h2 {
+    font-size: 19px;
+  }
+  .tab-section .accordion .accordion-content .left-content {
+    padding-right: 20px;
+    margin-top: 0;
+    padding: 20px 0 25px;
+  }
+  .left-content p {
+    width: 86%;
+}
+
+}
+ @media (max-width: 1024px) {
+  .blog-page-title_adn h2 a {
+    font-size: 18px;
+}
+.default.service-box .service-box-title h2 {
+  font-size: 19px;
+}
+.flip-box .flip-box-inner .front-part .front-content-part .front-desc-part .front-desc {
+  width: 59%;
+  margin: auto;
+}
+.flip-box .flip-box-inner .back-part .back-content-part .back-desc-part .back-desc {
+  width: 59%;
+  margin: auto;
+}
+.style-three .featur ul li i {
+  margin-top: 8px;
+}
+.pricing_body {
+  padding: 0 0;
+}
+.search_button {
+	text-align: right;
+	padding-right: 0;
+	margin-left: -79px;
+	margin-right: 25px;
+}
+.feature-box.style-four .feature-box-content .feature-box-title h2 {
+	font-size: 19px;
+}
+.tab-section .accordion .accordion-content .left-content {
+  padding-right: 20px;
+  margin-top: 18px;
+  padding-bottom: 20px;
+}
+.service-style-three .service-box-icon {
+  margin-right: 132px;
+}
+.feature-box.style-five .feature-btn {
+  bottom: 9%;
+}
+
+
+}
+@media (max-width: 991px){
+  .stech-header-top {
+    display: none;
+  }
+  .tab-content p {
+    width: 86%;
+}
+.tab-section .accordion .accordion-content .left-content {
+  padding-right: 25px;
+  margin-top: 35px;
+  padding-bottom: 25px;
+  padding-left: 32px;
+}
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+ @media (min-width: 992px) and (max-width: 1169px) {
+  .slider-video::before {
+    left: 24px;
+    top: 25px;
+  }
+  .feature-box.style-four .feature-box-content .feature-box-title h2 {
+    font-size: 17px;
+  }
+  .section-title h3, .section-title h2 {
+    font-size: 30px;
+  }
+  .default.service-box .service-box-title h2 {
+    font-size: 18px;
+  }
+  .service-box.style-five .service-box-title h2 {
+    font-size: 20px;
+  }
+  .tab-content p {
+    width: 86%;
+}
+
+
+}
+/* ------------------------------------------------- Tablet Screen : 768 ---------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .slider-video::before {
+    left: 19px;
+    top: 18px;
+    height: 50px;
+    width: 50px;
+  }
+  .section-title h3, .section-title h2 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .call-to-action-title span h3 {
+    font-size: 40px;
+    margin-bottom: 29px;
+  }
+  .call-to-action-title h2 {
+    font-size: 40px;
+  }
+  .service-style-three .service-box-icon {
+    margin-right: 78px;
+}
+
+/* Case Study Css */
+.portfolio_info {
+	padding: 0px 0 0;
+	margin-top: -7px;
+}
+.elementor-610 .elementor-element.elementor-element-6f966e5 .hfe-site-logo .hfe-site-logo-container img {
+  width: 20%;
+}
+.portfolio_info h2 {
+  font-size: 24px;
+}
+.blog-left-side > div {
+  padding: 30px 16px 28px;
+}
+.recent-post-text {
+  width: 100%;
+}
+blockquote {
+  font-size: 18px;
+}
+.my-accordion a {
+	font-size: 14px;
+}
+.my-accordion a::before {
+	top: 6px;
+}
+.my-accordion a::after {
+	top: 17px;
+}
+.service-box.style-five {
+    padding: 57px 16px 47px;
+    background: #fff;
+}
+.service-box.style-five .service-box-title h2 {
+    font-size: 18px;
+}
+
+}
+/* ------------------------------------------------- Small Mobile : 320 ---------------------------------------------------*/
+ @media (max-width: 767px) {
+  .slider-video::before {
+    left: 19px;
+    top: 18px;
+    height: 50px;
+    width: 50px;
+  }
+  .section-title h3, .section-title h2 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .call-to-action-title span h3 {
+    font-size: 40px;
+    margin-bottom: 29px;
+  }
+  .call-to-action-title h2 {
+    font-size: 40px;
+  }
+  .feature-box.style-four .feature-box-thumb img {
+    width: 100%;
+  }
+  .service-style-three .service-box-icon {
+    margin-right: 259px;
+}
+.blog-left-side {
+	margin-top: 50px;
+}
+.stech-single-blog-details-inner {
+	padding: 38px 20px 45px;
+}
+
+
+}
+/* ------------------------------------------------- Large Mobile :480px. ---------------------------------------------------*/
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  rs-group#slider-1-slide-1-layer-1 {
+    margin-left: -78px;
+}
+.portfolio_info {
+  padding: 25px 25px 0;
+  margin-top: 0;
+}
+.elementor-610 .elementor-element.elementor-element-6f966e5 .hfe-site-logo .hfe-site-logo-container img {
+  width: 25%;
+}
+
+} 
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .slider-video::before {
+    left: 12px;
+    top: 11px;
+    height: 30px;
+    width: 30px;
+}
+  .section-title h3, .section-title h2 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .elementor-610 .elementor-element.elementor-element-6f966e5 .hfe-site-logo .hfe-site-logo-container img {
+    width: 35%;
+  }
+
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .section-title h3, .section-title h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.section-title h5 {
+  font-size: 14px;
+}
+.style-six .em-cases-study-title h2 a {
+	font-size: 18px;
+	font-weight: 800;
+	color: #fff;
+}
+.blog_style_two .sthemeit-blog-meta-left {
+	font-size: 13px;
+}
+.sthemeit-blog-meta-top {
+	position: absolute;
+	right: 16px;
+	top: 64%;
+}
+.brpt h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+	line-height: 32px;
+}
+.my-accordion a {
+	font-size: 13px;
+}
+.my-accordion a {
+	padding: 0px 0;
+}
+.my-accordion a::after {
+	right: 15px;
+	top: 16px;
+}
+.my-accordion a::before {
+	top: 9px;
+	right: 7px;
+  width: 20px;
+  height: 20px;
+}
+.my-accordion a.active::after {
+	top: 17px;
+}
+.my-accordion a::before {
+	display: none;
+}
+.stech-single-blog-details h2 {
+	font-size: 22px;
+}
+/* Blog */
+.stech-single-icon-inner a i {
+	border: 1px solid #e6e6e6;
+	color: #565872;
+	display: inline-block;
+	font-size: 14px;
+	height: 30px;
+	line-height: 30px;
+	margin: 0 9px 0 0;
+	text-align: center;
+	width: 30px;
+	border-radius: 5px;
+}
+
+
+}
+
+
+@media only screen and (max-width: 390px) {
+  .slider-video::before {
+    left: 16px;
+    top: 16px;
+    height: 35px;
+    width: 35px;
+}
+.owl-dots {
+  bottom: -35px;
+  text-align: center;
+}
+.call-to-action-title span h3 {
+	font-size: 25px;
+	margin-bottom: 15px;
+}
+.call-to-action-desc {
+	width: 100%;
+}
+.call-to-action-title h2 {
+	font-size: 25px;
+}
+  rs-group#slider-1-slide-1-layer-1 {
+    margin-left: -10px;
+}
+  /* Case Study Css */
+	.portfolio_info h2 {
+    font-size: 19px;
+  }
+  .portfolio_info {
+    padding: 20px 0px 0;
+  }
+  .portfolio-details-box li {
+    font-size: 16px;
+  }
+  blockquote {
+    font-size: 14px;
+    line-height: 1.6;
+}
+.tab .nav-tabs li a {
+  padding: 8px 18px;
+}
+.service-style-three .service-box-icon {
+  margin-right: 89px;
+}
+.accordion-tabs .accordion-tab {
+  font-size: 16px;
+}
+.tab-section .accordion .accordion-content .left-content h2 {
+  font-size: 18px;;
+}
+.tab-items ul li {
+  font-size: 12px;
+}
+.tab-items ul li i {
+  margin-right: 5px;
+  font-size: 10px;
+}
+
+
+
+}
+
+
+/* retina query */
+@media only screen and (-webkit-min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (-o-min-device-pixel-ratio:2/1) and (max-width:991.98px),only screen and (min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min-resolution:192dpi) and (max-width:991.98px),only screen and (min-resolution:2dppx) and (max-width:991.98px){
+
+.logo a.standard-logo{
+  display: none;
+}
+.logo a.retina-logo{
+  display: inline-block;
+}
+}
+@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){
+.logo a.standard-logo{
+  display: none;
+}
+.logo a.retina-logo{
+  display: inline-block;
+}
+}
+ 

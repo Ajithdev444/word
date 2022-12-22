@@ -1,0 +1,1124 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-17 13:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.13"
+
+#: includes/stech-option-framework.php:1450
+msgid " Footer Social Section"
+msgstr ""
+
+#: includes/stech-option-framework.php:624
+msgid "\"stech\""
+msgstr ""
+
+#: template-parts/content-list.php:29 template-parts/content-single.php:22
+#: template-parts/content-search.php:31
+msgid "% Comments"
+msgstr ""
+
+#: footer.php:54
+msgid "&copy; 2019 stech.All Rights Reserved."
+msgstr ""
+
+#: includes/stech-global-function.php:267
+msgid "(Edit)"
+msgstr ""
+
+#: includes/stech-option-framework.php:438
+msgid "+848556778345"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:50 includes/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: template-parts/content-list.php:29 template-parts/content-single.php:22
+#: template-parts/content-search.php:31
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/content-list.php:29 template-parts/content-single.php:22
+#: template-parts/content-search.php:31
+msgid "1 Comments"
+msgstr ""
+
+#: includes/stech-option-framework.php:664
+msgid "1 Header Default Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:424
+msgid "1st Floor New World."
+msgstr ""
+
+#: includes/stech-option-framework.php:665
+msgid "2 Header Transparent With Search & Button"
+msgstr ""
+
+#: 404.php:32 includes/stech-breadcrumb.php:124
+msgid "404"
+msgstr ""
+
+#: includes/stech-option-framework.php:1320
+msgid "404 Area"
+msgstr ""
+
+#: includes/stech-option-framework.php:1330
+msgid "404 background with image, color."
+msgstr ""
+
+#: includes/stech-option-framework.php:1365
+msgid "404 Information"
+msgstr ""
+
+#: includes/stech-option-framework.php:1367
+msgid "404 Oops! The page you are Looking for does not exist. "
+msgstr ""
+
+#: includes/stech-option-framework.php:1329
+msgid "404 Page Background Color"
+msgstr ""
+
+#: functions.php:263 functions.php:272
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/stech-option-framework.php:481
+msgid "Address Icon Hover Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:422
+msgid "Address Name"
+msgstr ""
+
+#: includes/stech-option-framework.php:467
+msgid "Address Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:356
+msgid "All Header Hide"
+msgstr ""
+
+#: includes/stech-option-framework.php:354
+msgid "All Menu OFF/ON section"
+msgstr ""
+
+#: includes/stech-option-framework.php:968
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: includes/stech-option-framework.php:875
+#: includes/stech-option-framework.php:1377
+msgid "Allow your users to choose the spacing or padding they want."
+msgstr ""
+
+#: includes/stech-option-framework.php:529
+#: includes/stech-option-framework.php:1615
+#: includes/stech-option-framework.php:1732
+#: includes/stech-option-framework.php:1817
+msgid "Allow your users to choose the spacing padding they want."
+msgstr ""
+
+#: includes/stech-breadcrumb.php:94 includes/stech-breadcrumb.php:99
+#: includes/stech-breadcrumb.php:104
+msgid "Archive for"
+msgstr ""
+
+#: includes/stech-breadcrumb.php:109
+msgid "Author"
+msgstr ""
+
+#: includes/stech-option-framework.php:1011
+msgid "BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1112
+#: includes/stech-option-framework.php:1213
+msgid "BG color"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Blog 2column"
+msgstr ""
+
+#: includes/stech-breadcrumb.php:114
+msgid "Blog Archives"
+msgstr ""
+
+#: includes/stech-option-framework.php:1103
+msgid "Blog Area"
+msgstr ""
+
+#: includes/stech-option-framework.php:1177
+msgid "Blog btn Border Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1199
+msgid "Blog Btn Hover BG & Border Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1188
+msgid "Blog btn Hover Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1166
+msgid "Blog btn Text Color"
+msgstr ""
+
+#: includes/stech-breadcrumb.php:29
+msgid "Blog Details"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Grid"
+msgstr ""
+
+#: includes/stech-option-framework.php:1111
+msgid "Blog Item BG Color"
+msgstr ""
+
+#. Name of the template
+msgid "Blog List"
+msgstr ""
+
+#: includes/stech-option-framework.php:1144
+msgid "Blog Post Meta Icon Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1154
+msgid "Blog Post Meta Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1212
+msgid "Blog Sidebar BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1306
+msgid "Blog Social share Show/Hide"
+msgstr ""
+
+#: includes/stech-breadcrumb.php:11
+msgid "Blog Standerd"
+msgstr ""
+
+#: includes/stech-option-framework.php:1121
+msgid "Blog Title Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1133
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:362
+msgid "Body Social ON/OFF"
+msgstr ""
+
+#: includes/stech-option-framework.php:371
+#: includes/stech-option-framework.php:382
+#: includes/stech-option-framework.php:393
+#: includes/stech-option-framework.php:1438
+msgid "Box Layout"
+msgstr ""
+
+#: includes/stech-option-framework.php:898
+msgid "Breadcrumb Area"
+msgstr ""
+
+#: includes/stech-option-framework.php:911
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: includes/stech-option-framework.php:912
+msgid "Breadcrumb background with image, color."
+msgstr ""
+
+#: includes/stech-option-framework.php:954
+msgid "Breadcrumb Current Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:920
+msgid "Breadcrumb Title Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:672
+msgid "Button Text"
+msgstr ""
+
+#: includes/stech-option-framework.php:679
+msgid "Button URL"
+msgstr ""
+
+#: includes/stech-option-framework.php:674
+msgid "Buy Now"
+msgstr ""
+
+#: includes/stech-breadcrumb.php:47
+msgid "Case Study Details"
+msgstr ""
+
+#: includes/stech-tgm-activation.php:27
+msgid "Cmb2"
+msgstr ""
+
+#: includes/stech-option-framework.php:1641
+msgid "Column 1"
+msgstr ""
+
+#: includes/stech-option-framework.php:1642
+msgid "Column 2"
+msgstr ""
+
+#: includes/stech-option-framework.php:1643
+msgid "Column 3"
+msgstr ""
+
+#: includes/stech-option-framework.php:1644
+msgid "Column 4"
+msgstr ""
+
+#: includes/stech-option-framework.php:1645
+msgid "Column 6"
+msgstr ""
+
+#: includes/stech-global-function.php:221
+msgid "Comment"
+msgstr ""
+
+#: comments.php:29 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/stech-option-framework.php:1051
+msgid "Contact Button BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1060
+msgid "Contact Button Hover BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1070
+msgid "Contact Button Hover Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1042
+msgid "Contact Button Text Color"
+msgstr ""
+
+#: includes/stech-tgm-activation.php:22
+msgid "Contact form 7"
+msgstr ""
+
+#: includes/stech-option-framework.php:1771
+msgid "Copyright &copy; stech all rights reserved."
+msgstr ""
+
+#: includes/stech-option-framework.php:1769
+msgid "Copyright information"
+msgstr ""
+
+#: includes/stech-option-framework.php:1799
+msgid "Copyright Section BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1429
+msgid "Copyright Section Show/Hide"
+msgstr ""
+
+#: includes/stech-option-framework.php:1756
+msgid "Copyright Style Layout"
+msgstr ""
+
+#: includes/stech-option-framework.php:1761
+msgid "Copyright Text and Left Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:1760
+msgid "Copyright Text and Right Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:1762
+msgid "Copyright Text and Social Icon"
+msgstr ""
+
+#: includes/stech-option-framework.php:1781
+msgid "Copyright Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1790
+msgid "Copyright Text Hover Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1759
+msgid "Copyright Text Style"
+msgstr ""
+
+#: includes/stech-option-framework.php:613
+msgid "Create logo spacing massing"
+msgstr ""
+
+#: includes/stech-option-framework.php:1839
+msgid "Customizer Only"
+msgstr ""
+
+#: includes/stech-option-framework.php:1846
+msgid "Customizer Only Option"
+msgstr ""
+
+#: includes/stech-option-framework.php:990
+msgid "Default Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:559
+msgid "Default Logo"
+msgstr ""
+
+#. Name of the template
+msgid "Default stech Template"
+msgstr ""
+
+#: includes/stech-option-framework.php:431
+msgid "demo@example.com"
+msgstr ""
+
+#: includes/stech-option-framework.php:1498
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#. %s: Name of current post
+#: includes/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/stech-option-framework.php:1079
+msgid "EM Video Widget Ovelrlay Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:429
+msgid "Email Number"
+msgstr ""
+
+#: includes/stech-option-framework.php:1497
+msgid "Enter social links"
+msgstr ""
+
+#: functions.php:285
+msgid "Footer "
+msgstr ""
+
+#: includes/stech-option-framework.php:1411
+msgid "Footer Address Section Show/Hide"
+msgstr ""
+
+#: includes/stech-option-framework.php:1403
+msgid "Footer Area"
+msgstr ""
+
+#: includes/stech-option-framework.php:1747
+msgid "Footer Copyright Info"
+msgstr ""
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:1630
+msgid "Footer Widget Section"
+msgstr ""
+
+#: includes/stech-option-framework.php:372
+#: includes/stech-option-framework.php:383
+#: includes/stech-option-framework.php:394
+#: includes/stech-option-framework.php:1439
+msgid "Full Layout"
+msgstr ""
+
+#: includes/stech-option-framework.php:156
+msgid "General"
+msgstr ""
+
+#: 404.php:36
+msgid "Go Home"
+msgstr ""
+
+#: includes/stech-option-framework.php:346
+msgid "Header area"
+msgstr ""
+
+#: includes/stech-option-framework.php:550
+#: includes/stech-option-framework.php:552
+msgid "Header Logo"
+msgstr ""
+
+#: includes/stech-option-framework.php:651
+msgid "Header Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:348
+msgid "Header options"
+msgstr ""
+
+#: includes/stech-option-framework.php:416
+msgid "Header Top"
+msgstr ""
+
+#: includes/stech-option-framework.php:405
+msgid "Header Top Section"
+msgstr ""
+
+#: includes/stech-option-framework.php:512
+msgid "Header Top Section BG Color"
+msgstr ""
+
+#: includes/stech-breadcrumb.php:66
+msgid "Home"
+msgstr ""
+
+#: includes/stech-option-framework.php:1021
+msgid "Hover BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1031
+msgid "Hover Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1366
+#: includes/stech-option-framework.php:1770
+msgid "HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.webdevcode.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.webdevcode.com/wp/stech/"
+msgstr ""
+
+#: includes/stech-option-framework.php:414
+msgid ""
+"If you ON this section. It will show header top section all your single page."
+" But If you want to only show header top in home and others page, Please "
+"goes to your page, there you can see header top OFF/ON section. Please set It"
+msgstr ""
+
+#: includes/stech-option-framework.php:430
+msgid "Insert email number"
+msgstr ""
+
+#: includes/stech-option-framework.php:407
+msgid "Insert header top info"
+msgstr ""
+
+#: includes/stech-option-framework.php:423
+msgid "insert name ex:- house, road-4."
+msgstr ""
+
+#: includes/stech-option-framework.php:437
+msgid "Insert phone number"
+msgstr ""
+
+#: includes/stech-option-framework.php:1496
+msgid "Insert Social Icons"
+msgstr ""
+
+#: includes/stech-option-framework.php:1405
+msgid "Insert style for top address area"
+msgstr ""
+
+#: includes/stech-option-framework.php:444
+#: includes/stech-option-framework.php:452
+#: includes/stech-option-framework.php:673
+msgid "Insert text"
+msgstr ""
+
+#: includes/stech-option-framework.php:623
+msgid "Insert text ex: - \"stech\", Must be use \"\" for logo text "
+msgstr ""
+
+#: includes/stech-option-framework.php:680
+msgid "Insert url ex: - https://www.example.com/"
+msgstr ""
+
+#: includes/stech-option-framework.php:1749
+msgid "Insert your copyright style"
+msgstr ""
+
+#: includes/stech-tgm-activation.php:52
+msgid "Instagram feed"
+msgstr ""
+
+#: includes/stech-tgm-activation.php:42
+msgid "kingcomposer"
+msgstr ""
+
+#. %s: post title
+#: includes/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/stech-global-function.php:227
+msgid "Leave Comment"
+msgstr ""
+
+#: includes/stech-option-framework.php:599
+msgid "Logo Height"
+msgstr ""
+
+#: includes/stech-option-framework.php:622
+msgid "Logo Text"
+msgstr ""
+
+#: includes/stech-option-framework.php:606
+msgid "Logo Width"
+msgstr ""
+
+#: includes/stech-option-framework.php:1486
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur ahkl adipisicing elit, sed do "
+"eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim "
+"veniam, quis nostrud"
+msgstr ""
+
+#: includes/stech-tgm-activation.php:32
+msgid "Mailchimp for WP"
+msgstr ""
+
+#: functions.php:44
+msgid "Main Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:763
+msgid "Main Menu Hover Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:722
+msgid "Main Menu Section BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:773
+msgid "Main Menu Sticky BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:807
+msgid "Main Menu Sticky Current Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:694
+msgid "Menu Button & Search BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:685
+msgid "Menu Button & Search Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:713
+msgid "Menu Hover Button BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:704
+msgid "Menu Hover Button Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:591
+msgid "Mobile Logo"
+msgstr ""
+
+#: functions.php:46
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:629
+msgid "Mobile Menu BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:638
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Roboto, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:130
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr ""
+
+#: comments.php:33 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: search.php:30
+msgid "Nothing Found"
+msgstr ""
+
+#: includes/stech-option-framework.php:905
+msgid ""
+"Notice:- If you want to more breadrucmb control. Please see every page "
+"bottom area. We Added More Field Here"
+msgstr ""
+
+#: includes/stech-option-framework.php:997
+msgid ""
+"Notice:- we set our all color in our adns, But only carousel Arrow, contact "
+"button and scroll button color will be change by below option"
+msgstr ""
+
+#: comments.php:32 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: includes/stech-tgm-activation.php:47
+msgid "One Click Demo Import"
+msgstr ""
+
+#: includes/stech-option-framework.php:567
+msgid "One Page Menu Logo"
+msgstr ""
+
+#: 404.php:33
+msgid "Oops! The page you are looking for does not exist."
+msgstr ""
+
+#: includes/stech-option-framework.php:453
+msgid "Open hours: 9.00-24.00 Mon-Sat"
+msgstr ""
+
+#: includes/stech-option-framework.php:502
+msgid "Opening BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:451
+msgid "Opening Text"
+msgstr ""
+
+#: includes/stech-option-framework.php:1852
+msgid "Opt 1"
+msgstr ""
+
+#: includes/stech-option-framework.php:1853
+msgid "Opt 2"
+msgstr ""
+
+#: includes/stech-option-framework.php:1854
+msgid "Opt 3"
+msgstr ""
+
+#: includes/stech-option-framework.php:528
+#: includes/stech-option-framework.php:967
+#: includes/stech-option-framework.php:1614
+#: includes/stech-option-framework.php:1731
+#: includes/stech-option-framework.php:1816
+msgid "Padding Option"
+msgstr ""
+
+#: functions.php:270
+msgid "Page"
+msgstr ""
+
+#. Name of the template
+msgid "Page Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: template-parts/content-single.php:40 template-parts/content-page.php:41
+msgid "Pages:"
+msgstr ""
+
+#: includes/stech-option-framework.php:1296
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1285
+msgid "Pagination Text Color"
+msgstr ""
+
+#. Author of the theme
+msgid "PearsTheme"
+msgstr ""
+
+#: includes/stech-option-framework.php:436
+msgid "Phone Number"
+msgstr ""
+
+#: includes/stech-option-framework.php:658
+msgid ""
+"Please set a menu for your all single page. But, For your home and others "
+"main page menu, Please goes to your page, there you can see header menu "
+"section. Please set a  menu style there"
+msgstr ""
+
+#: includes/stech-option-framework.php:1472
+msgid ""
+"Please set this way for different color. ex-  T<span>H</span>E<span>M</span>"
+"E<span>X</span>P"
+msgstr ""
+
+#: includes/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: includes/stech-global-function.php:224
+msgid "Post Comment"
+msgstr ""
+
+#: includes/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: includes/stech-tgm-activation.php:37
+msgid "Redux-framework"
+msgstr ""
+
+#: includes/stech-global-function.php:259
+msgid "Reply"
+msgstr ""
+
+#: includes/stech-option-framework.php:583
+msgid "Retina Logo"
+msgstr ""
+
+#: includes/stech-option-framework.php:1356
+msgid "Return Link Color"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search Here"
+msgstr ""
+
+#: includes/stech-breadcrumb.php:119
+msgid "Search Results"
+msgstr ""
+
+#: includes/stech-option-framework.php:874
+#: includes/stech-option-framework.php:1376
+msgid "Section Padding Option"
+msgstr ""
+
+#: includes/stech-option-framework.php:663
+msgid "Select Default Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:660
+msgid "Select Default Menu For All Single Page"
+msgstr ""
+
+#: includes/stech-option-framework.php:1435
+msgid "Select Footer layout"
+msgstr ""
+
+#: includes/stech-option-framework.php:390
+msgid "Select Header Menu layout"
+msgstr ""
+
+#: includes/stech-option-framework.php:1458
+msgid "Select Logo Style"
+msgstr ""
+
+#: includes/stech-option-framework.php:368
+msgid "Select Top 1 Header layout"
+msgstr ""
+
+#: includes/stech-option-framework.php:379
+msgid "Select Top 2 Header layout"
+msgstr ""
+
+#: includes/stech-option-framework.php:601
+msgid "Set height ex-100px"
+msgstr ""
+
+#: includes/stech-option-framework.php:615
+msgid "Set number default-15px"
+msgstr ""
+
+#: includes/stech-option-framework.php:608
+msgid "Set Width ex-100px"
+msgstr ""
+
+#: includes/stech-option-framework.php:1462
+msgid "Show Image Logo"
+msgstr ""
+
+#: includes/stech-option-framework.php:1461
+msgid "Show Text Logo"
+msgstr ""
+
+#: functions.php:261
+msgid "Sidebar"
+msgstr ""
+
+#: includes/stech-option-framework.php:1230
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1252
+msgid "Sidebar Text Hover Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1221
+msgid "Sidebar Title Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1263
+msgid "Single Blog Social Icon & Title bar Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1274
+msgid "Single Blog Social Icon Hover Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1569
+msgid "Social Icon BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1560
+msgid "Social Icon Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1588
+msgid "Social Icon hover BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1579
+msgid "Social Icon hover Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1477
+msgid "Social Image Logo"
+msgstr ""
+
+#: includes/stech-option-framework.php:1485
+msgid "Social information"
+msgstr ""
+
+#: includes/stech-option-framework.php:1598
+msgid "Social Section BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1417
+msgid "Social Section Show/Hide"
+msgstr ""
+
+#: includes/stech-option-framework.php:1551
+msgid "Social section Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1533
+msgid "Social Title Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1542
+msgid "Social Title Text Color 2"
+msgstr ""
+
+#: includes/stech-option-framework.php:1470
+msgid "Social Title Text Logo"
+msgstr ""
+
+#: search.php:31
+msgid ""
+"Sorry, but nothing matched your search terms, please try a different search "
+"term."
+msgstr ""
+
+#: includes/stech-option-framework.php:823
+msgid "Sub Menu BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:857
+msgid "Sub Menu Hover Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1347
+msgid "Sub Title Color"
+msgstr ""
+
+#: includes/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. Name of the theme
+#: includes/stech-option-framework.php:1471
+msgid "stech"
+msgstr ""
+
+#. Description of the theme
+msgid "stech - Visa Consulting WordPress Theme."
+msgstr ""
+
+#: includes/stech-tgm-activation.php:14
+msgid "stech helper Plugin"
+msgstr ""
+
+#: includes/stech-option-framework.php:1002
+msgid "Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1848
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: includes/stech-option-framework.php:1847
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: includes/stech-option-framework.php:35
+#: includes/stech-option-framework.php:36
+msgid "Theme Options"
+msgstr ""
+
+#: includes/stech-option-framework.php:1840
+msgid "This Section should be visible only in Customizer"
+msgstr ""
+
+#: includes/stech-option-framework.php:1338
+msgid "Title Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:458
+msgid "Top Icon Color"
+msgstr ""
+
+#: functions.php:43
+msgid "Top Menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:575
+msgid "Transparent Menu Logo"
+msgstr ""
+
+#: includes/stech-option-framework.php:168
+msgid "Typography Area"
+msgstr ""
+
+#: includes/stech-option-framework.php:586
+msgid "Upload logo here. ex: - it is work in Retina Logo"
+msgstr ""
+
+#: includes/stech-option-framework.php:578
+msgid "Upload logo here. ex: - it is work in transparent menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:570
+msgid "Upload logo here. ex:- it is work in one page menu"
+msgstr ""
+
+#: includes/stech-option-framework.php:594
+msgid "Upload logo here. recommend size:- 1801x48px."
+msgstr ""
+
+#: includes/stech-option-framework.php:1480
+msgid ""
+"Upload logo here. recommend size:- 220x50px. Notice:- If you upload this "
+"logo, Title text logo will be hide "
+msgstr ""
+
+#: includes/stech-option-framework.php:562
+msgid "Upload logo here.ex: - it is work in default menu."
+msgstr ""
+
+#: includes/stech-option-framework.php:1322
+msgid "Use this section to upload background images, select background color"
+msgstr ""
+
+#: includes/stech-option-framework.php:158
+msgid "Wellcome Our Theme Option"
+msgstr ""
+
+#: includes/stech-option-framework.php:443
+msgid "Wellcome Text"
+msgstr ""
+
+#: includes/stech-option-framework.php:493
+msgid "Wellcome Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:445
+msgid "wellcome visit our site"
+msgstr ""
+
+#: includes/stech-option-framework.php:1690
+msgid "Widget Address Icon Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1638
+msgid "Widget Column Count"
+msgstr ""
+
+#: includes/stech-option-framework.php:1715
+msgid "Widget Section BG Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1423
+msgid "Widget Section Hide/show"
+msgstr ""
+
+#: includes/stech-option-framework.php:1661
+msgid "Widget Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1699
+msgid "Widget Text Hover Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:1652
+msgid "Widget Title Text Color"
+msgstr ""
+
+#: includes/stech-option-framework.php:530
+#: includes/stech-option-framework.php:876
+#: includes/stech-option-framework.php:969
+#: includes/stech-option-framework.php:1378
+#: includes/stech-option-framework.php:1616
+#: includes/stech-option-framework.php:1733
+#: includes/stech-option-framework.php:1818
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
